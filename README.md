@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourabh7036
-🌱 Aspiring Full Stack Developer | JavaScript, React, Node.js  
-🚀 Currently learning: MongoDB & Full Stack Project Deployment  
-🎯 Goal: To build real-world web apps and land a full-time developer role
+- 🌱 Aspiring Full Stack Developer | JavaScript, React, Node.js  
+- 🚀 Currently learning: MongoDB & Full Stack Project Deployment  
+- 🎯 Goal: To build real-world web apps and land a full-time developer role
 
 ---
 

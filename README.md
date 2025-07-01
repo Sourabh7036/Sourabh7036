@@ -21,7 +21,7 @@
 🛠️ *Always building, learning, and improving!*
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I started coding because I love solving real-world problems — and the feeling of building something that actually works is unbeatable!
 
 <!---
 Sourabh7036/Sourabh7036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

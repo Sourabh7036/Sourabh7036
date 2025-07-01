@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourabh7036
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently Working on full stack projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
